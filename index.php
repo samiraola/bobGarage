@@ -8,7 +8,7 @@
 <body style="width:100%; min-height:100vh; display:flex; justify-content:center; align-items:center;">
     <section style="width:100%; max-width:fit-content; padding:10px; border:1px solid; text-align:center">
     <h1>LE GARAGE DE BOB</h1>
-    <form action="process_order.php" method="post">
+    <form>
         <h3>Formulaire de commande</h3>
         <table>
             <thead>
