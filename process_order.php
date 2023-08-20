@@ -9,9 +9,6 @@
     <section style="width:100%; max-width:fit-content; padding:10px; border:1px solid; text-align:center">
         <h1>LE GARAGE DE BOB</h1>
         <h3>Résultats de la commande</h3>
-        <?php if(!empty($error)):?>
-            <p>Aucune commande effectuée! <a href="index.php">Retour</a></p>
-        <?php else:?>
             <p>Commande traitée à xx:xx le xx-xx-xxxx</p>
             <p>Addresse de livraison: <b>XXXX</b></p>
             <hr>
